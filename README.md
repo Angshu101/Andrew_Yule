@@ -24,4 +24,4 @@ Today, the Andrew Yule Group has a turnover of Rs.1,200 crore and it employs abo
 3 - Create superuser
     python manage.py createsuperuser
     
-![](static/images/Andrew_Yule(1).gif)
+![](static/images/Screenshot (457).png)
